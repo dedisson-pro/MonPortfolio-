@@ -1,0 +1,43 @@
+body {
+    background-color: white;
+    color: black;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+header {
+    background-color: blue;
+    color: white;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: blue;
+}
+
+section {
+    background-color: lightgray;
+}
+
+p {
+    color: black;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    border: none;
+}
+
+button:hover {
+    background-color: black;
+}
+
+a {
+    color: blue;
+    font-weight: bold;
+    text-decoration: none;
+}
